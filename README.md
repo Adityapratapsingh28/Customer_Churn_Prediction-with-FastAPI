@@ -10,8 +10,27 @@ Before you proceed with the setup, ensure that you have the following prerequisi
 - [Git](https://git-scm.com/)
 ### Clone Customer_Churn_Prediction-with-FastAPI Repository
 1.Open your terminal or command prompt.
+
 2.Navigate to the directory where you want to clone the Customer_Churn_Prediction-with-FastAPI repository.
+
 3.Run the following command to clone the repository:
 ```
 git clone https://github.com/Adityapratapsingh28/Customer_Churn_Prediction-with-FastAPI.git
+```
+### Install the required dependencies:
+```
+pip install -r requirements.txt
+```
+### Running code on FastAPI(Swagger UI)
+1.Navigate to the directory where you clone the repository
+
+2.Write the following command on command promt
+```
+python -m uvicorn app:app --reload
+```
+3.Ctrl+Click on the link that came up and it will run on local host of your computer
+
+4.Then paste this link on your browser
+```
+http://127.0.0.1:8000/docs
 ```
