@@ -17,6 +17,11 @@ Before you proceed with the setup, ensure that you have the following prerequisi
 ```
 git clone https://github.com/Adityapratapsingh28/Customer_Churn_Prediction-with-FastAPI.git
 ```
+4.Get into the directory using
+```
+cd "Customer_Churn_Prediction-with-FastAPI"
+```
+
 ### Install the required dependencies:
 ```
 pip install -r requirements.txt
