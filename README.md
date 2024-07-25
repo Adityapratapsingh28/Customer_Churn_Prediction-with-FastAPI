@@ -12,3 +12,6 @@ Before you proceed with the setup, ensure that you have the following prerequisi
 1.Open your terminal or command prompt.
 2.Navigate to the directory where you want to clone the Customer_Churn_Prediction-with-FastAPI repository.
 3.Run the following command to clone the repository:
+```
+git clone https://github.com/Adityapratapsingh28/Customer_Churn_Prediction-with-FastAPI.git
+```
