@@ -39,3 +39,8 @@ python -m uvicorn app:app --reload
 ```
 http://127.0.0.1:8000/docs
 ```
+### Video Recording
+
+
+https://github.com/user-attachments/assets/4921a0fe-2849-408a-960f-2927c2f41a8b
+
