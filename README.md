@@ -1,5 +1,11 @@
 # Customer_Churn_Prediction-with-FastAPI
-This repository contains a ML model on customer churn prediction which is serving as an API through FastAPI .
+This project presents a machine learning model designed to predict customer churn, accessible via a FastAPI interface. By analyzing customer data, the model identifies individuals likely to discontinue their relationship with a company, enabling proactive retention strategies.
+
+## Key features
+- Machine Learning Model: Utilizes algorithms such as Logistic Regression to forecast customer churn based on historical data
+- FastAPI Integration: Deploys the model through FastAPI, allowing seamless integration into various applications and services
+- Real-Time Predictions: Offers instant churn predictions for individual customers upon data submission.
+- Feature Importance Analysis: Provides insights into the factors most influencing churn, aiding in targeted customer retention efforts
 
 ## Setup Instructions 🛠️
 ### Prerequisites
