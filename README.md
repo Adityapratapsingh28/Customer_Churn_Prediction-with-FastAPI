@@ -50,3 +50,7 @@ http://127.0.0.1:8000/docs
 
 https://github.com/user-attachments/assets/4921a0fe-2849-408a-960f-2927c2f41a8b
 
+## Sample
+<img width="532" alt="image" src="https://github.com/user-attachments/assets/fba784d6-23eb-4085-94f4-d85df5d9cec5">
+
+
